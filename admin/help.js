@@ -36,7 +36,7 @@ ${menu(listmenu.creatiftag, "CREATIF(TAG)", prefix)}
 ${menu(listmenu.ttp, "TTP(COLORS)", prefix)}`
 // JANGAN UBAH/HAPUS THX TO🤥
 var cr = `╭━─━•[ *THX-TO* ]⊱
-┃•  *ADHIRAJ SINGH*
+┃•  *GilzzBotz*
 ┃•  *RIMURUBOTZ*
 ┃•  *LOLI KILLERS*
 ┃•  *LORD R1YNZ*
